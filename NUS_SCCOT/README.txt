@@ -1,1 +1,1 @@
-The representative TSR regions from the invasive tumor front of whole slide images from NUS SCCOT.
+The representative TSR regions from the invasive tumor front of whole slide images in the NUS SCCOT cohort
