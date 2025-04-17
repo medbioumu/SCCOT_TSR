@@ -1,1 +1,1 @@
-The representative TSR regions from the invasive tumor front of whole slide images from TCGA SCCOT.
+The representative TSR regions from the invasive tumor front of whole slide images in the TCGA SCCOT cohort.
